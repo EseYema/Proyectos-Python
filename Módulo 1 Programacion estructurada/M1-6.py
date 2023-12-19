@@ -1,5 +1,5 @@
 #create and run file .py ** crear y ejecutar archivo .py (M1-6)
-#link: https://pythones.net/archivos-py-scripts-de-python/
+#Link: https://pythones.net/archivos-py-scripts-de-python/
 
 
 print("****************************************************************************************************************")
