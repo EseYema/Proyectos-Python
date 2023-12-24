@@ -3,3 +3,14 @@
 #Link: https://pythones.net/funciones-predefinidas-crear-nuestra-funcion/
 
 
+print("****************************************************************************************************************")
+
+#funciones de cadenas
+cadenas = "Funciones de cadenas"
+print(cadenas)
+
+print(len(cadenas))
+
+lista = ["Chema", "Nuñez", "Gonzalez" ]
+
+print (" ".join(lista))
