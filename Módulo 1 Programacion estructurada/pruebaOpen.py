@@ -1,0 +1,1 @@
+#Este archivo se ha creado mediante la funcion open()
