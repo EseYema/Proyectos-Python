@@ -89,12 +89,12 @@ print(tuple(listaNumero))
 
 print("****************************************************************************************************************")
 
-with open("C:\Proyectos\Proyectos-Python\Módulo 1 Programacion estructurada\pruebaOpen.py", "w") as variables:
-    variables.writelines("#Este archivo se ha creado mediante la funcion open()")
+#with open("C:\Proyectos\Proyectos-Python\Módulo 1 Programacion estructurada\pruebaOpen.py", "w") as variables:
+#   variables.writelines("#Este archivo se ha creado mediante la funcion open()")
 
 print("****************************************************************************************************************")
 
-print(ord("A"))
+print(ord("<"))
 
 print("****************************************************************************************************************")
 
@@ -121,4 +121,4 @@ def sumar (a,b):
     s=a+b
     print("resultado = ",s)
 
-sumar(1,1)
+sumar(2,1)
